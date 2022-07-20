@@ -1,7 +1,9 @@
 # Sui-Devnet-Guncelleme
 
 Sunucumuza bağlanıyoruz ve sırasıyla şu komutları giriyoruz;
+
 1
+
 ```
 cd sui && rm -rf genesis.blob
 ```
